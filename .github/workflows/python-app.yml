@@ -32,4 +32,3 @@ jobs:
         run: |
           python manage.py test
           python manage.py check
-          pytest
